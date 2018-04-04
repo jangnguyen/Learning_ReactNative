@@ -1,3 +1,3 @@
-# Hướng dẫn sử dụng React Native cho người mới mới mới
+# HƯỚNG DẪN SỬ DỤNG REACT NATIVE CHO NGƯỜI MỚI HỌC NHƯ MÌNH
 
-Thay đổi gì đó rồi up lên trở lại
+Những kiến thức mà mình được học từ lúc làm sample đến production sẽ chia sẻ ở đây. Cùng với những link tham khảo hữu ích để mọi người có thêm kiến thức.
